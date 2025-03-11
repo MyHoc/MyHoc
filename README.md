@@ -65,4 +65,5 @@ Active Directory Administration – Automated management of 10+ user accounts an
 <br><br>
 Vulnerability Management Lab (Nessus) – Conducted vulnerability assessments and remediated issues on 10+ Windows 10 hosts, improving security by 40%.
 <br><br>
-Basic Penetration Test Project – Performed reconnaissance, scanning, exploitation, and privilege escalation on a vulnerable machine using Kali Linux, Metasploit, and Nmap.
+<a href="https://github.com/MyHoc/BasicPenTest">Basic Penetration Test Project – Performed reconnaissance, scanning, exploitation, and privilege escalation on a vulnerable machine using Kali Linux, Metasploit, and Nmap.</a><br>
+
