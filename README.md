@@ -19,7 +19,7 @@ Skill  Associated Project
 SIEM Implementation and Log Analysis  <a href="#">SIEM Implementation (Azure Sentinel)</a><br>
 Active Directory Administration  <a href="#">Active Directory Administration</a><br>
 Vulnerability Management  <a href="#">Vulnerability Management Lab (Nessus)</a><br>
-Basic Penetration Testing  <a href="#">Basic Penetration Test Project</a><br>
+Basic Penetration Testing  <a href="https://github.com/MyHoc/BasicPenTest">Basic Penetration Test Project</a><br>
 
 <br><br>
 
